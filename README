@@ -5,3 +5,6 @@ CPU :     RP2040
 Intefaz:  Arduino IDE
 
 Decripción: Practicas para RPi Pico usando la interfaz de programación Arduino IDE
+
+TestWSLDC2: demo para display "WareShare Pico LCD 2" - transcripcion directa de la paqueteria oficial para c,
+más información en: https://www.waveshare.com/wiki/Pico-LCD-1.3
